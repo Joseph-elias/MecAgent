@@ -10,4 +10,5 @@ dependencies = [
     "ipykernel>=6.29.5",
     "scipy>=1.15.3",
     "trimesh>=4.6.11",
+    "torch>=2.3.0",
 ]
